@@ -1,21 +1,32 @@
 import codecs
+from re import M
 
 import pandas as pd
 import requests
 from bs4 import BeautifulSoup
 
-municipio_selecionado = "130260"
+filtro = {
+    "manaus": {
+        "codigo_ibge": "130260",
+        "codigo_tabnet": "38",
+        "estado_sigla": "am"
+    }
+}
+
+municipio = "manaus"
+ano_dois_digitos = "22"
+mes_dois_digitos = "01"
 
 
-def read_from_tabnet_page():
+def read_data_from_tabnet_page():
     url = 'http://tabnet.datasus.gov.br/cgi/tabcgi.exe?sia/cnv/qbam.def'
     data = {
         "Linha": "Procedimento",
         "Coluna": "Ano_processamento",
         "Incremento": "Qtd.aprovada",
-        "Arquivos": "qbam2207.dbf",
+        "Arquivos": f'qb{filtro[municipio]["estado_sigla"]}{ano_dois_digitos}{mes_dois_digitos}.dbf',
         "pesqmes1": "",
-        "SMunic%EDpio": "38",
+        "SMunic%EDpio": filtro[municipio]["codigo_tabnet"],
         "SRegi%E3o_de_Sa%FAde_%28CIR%29": "TODAS_AS_CATEGORIAS__",
         "SMacrorregi%E3o_de_Sa%FAde": "TODAS_AS_CATEGORIAS__",
         "SDivis%E3o_administ_estadual": "TODAS_AS_CATEGORIAS__",
@@ -41,13 +52,12 @@ def read_from_tabnet_page():
         "mostre": "Mostra"
     }
     headers = {'Content-Type': 'application/x-www-form-urlencoded',
+               "Accept-Encoding": "gzip, deflate",
                'User-Agent': 'insomnia/2022.6.0'}
     res = requests.post(url,
                         headers=headers,
                         data=data)
-
-
-read_from_tabnet_page()
+    return res.text
 
 
 def read_data_from_file():
@@ -56,8 +66,9 @@ def read_data_from_file():
     return html_page
 
 
-html_page = read_data_from_file()
-soup = BeautifulSoup(html_page, 'html.parser')
+html_page = read_data_from_tabnet_page()
+
+soup = BeautifulSoup(html_page, 'html5lib')
 table = soup.find('table', {"class": "tabdados"})
 
 table_rows = table.find_all('tr')
@@ -73,11 +84,14 @@ for row in table_rows[4:]:
     data = {}
     cells = row.find_all('td')
     for i in range(3):
-        data[table_thread_titles[i].get_text().lower()] = " ".join(cells[i].get_text().strip().split())
-    data["municipio"] = municipio_selecionado
+        data[table_thread_titles[i].get_text().lower().strip()] = " ".join(
+            cells[i].get_text().strip().split())
+    data["municipio_ibge"] = filtro[municipio]["codigo_ibge"]
+    data["competencia"] = str(2000 + int(ano_dois_digitos)) + "-" + mes_dois_digitos + "-01"
     data_list.append(data)
 
 data_frame = pd.DataFrame(data_list, columns=data_list[0].keys())
 
-data_frame.to_csv('output.csv', index=False)
-print("Fim")
+data_frame.to_csv(
+    f'./data/sia_sus_{municipio}_{ano_dois_digitos}_{mes_dois_digitos}.csv', index=False)
+print("fim do processo extracao")
