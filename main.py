@@ -15,7 +15,7 @@ filtro = {
 
 municipio = "manaus"
 ano_dois_digitos = "22"
-mes_dois_digitos = "01"
+mes_dois_digitos = "07"
 
 
 def read_data_from_tabnet_page():
@@ -85,7 +85,7 @@ for row in table_rows[4:]:
     cells = row.find_all('td')
     for i in range(3):
         data[table_thread_titles[i].get_text().lower().strip()] = " ".join(
-            cells[i].get_text().strip().split())
+            cells[i].get_text().strip().replace('.','').split())
     data["municipio_ibge"] = filtro[municipio]["codigo_ibge"]
     data["competencia"] = str(2000 + int(ano_dois_digitos)) + "-" + mes_dois_digitos + "-01"
     data_list.append(data)
