@@ -54,3 +54,8 @@ services:
     links:
       - server:redash
     restart: always
+networks:
+  default:
+    external:
+      name: webproxy
+
