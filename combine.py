@@ -3,7 +3,7 @@ import os
 
 import pandas as pd
 
-os.chdir("./data")
+os.chdir("./data/siasus_municipio_ano_mes_sexo")
 extension = 'csv'
 all_filenames = [i for i in glob.glob('*.{}'.format(extension))]
 
