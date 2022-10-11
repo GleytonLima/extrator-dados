@@ -32,11 +32,11 @@ def sia_sus_gerar_procedimentos_por_municipio_ano_mes_sexo():
 def sih_sus_gerar_procedimentos_por_municipio_ano_mes():
     filtro = {
         "municipio": "manaus",
-        "ano": "2022",
+        "ano": "2020",
         "mes": "08",
         "formatar_caminho_arquivo": lambda filtro: f'./data/sihsus_municipio_ano_mes/{filtro["municipio"]}_{filtro["ano"]}_{filtro["mes"]}.csv'
     }
-    for mes in ["01", "02", "03", "04", "05", "06", "07", "08"]:
+    for mes in ["01", "02", "03", "04", "05", "06", "07", "08", "09", "10", "11", "12"]:
         filtro["mes"] = mes
         sihsus_extrair_informacoes_dado_filtro(filtro)
 

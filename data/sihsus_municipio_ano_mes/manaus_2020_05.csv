@@ -1,0 +1,255 @@
+lista morb  cid-10,2020,total,municipio_ibge,competencia
+01 Algumas doenças infecciosas e parasitárias,2759,2759,130260,2020-05
+Cólera,1,1,130260,2020-05
+Amebíase,2,2,130260,2020-05
+Diarréia e gastroenterite origem infecc presum,69,69,130260,2020-05
+Outras doenças infecciosas intestinais,27,27,130260,2020-05
+Tuberculose respiratória,4,4,130260,2020-05
+Tuberculose pulmonar,3,3,130260,2020-05
+Outras tuberculoses respiratórias,1,1,130260,2020-05
+Outras tuberculoses,3,3,130260,2020-05
+Tuberculose do sistema nervoso,1,1,130260,2020-05
+Tuberculose do aparelho geniturinário,1,1,130260,2020-05
+Restante de outras tuberculoses,1,1,130260,2020-05
+Peste,1,1,130260,2020-05
+Outros tétanos,3,3,130260,2020-05
+Infecção meningocócica,1,1,130260,2020-05
+Septicemia,121,121,130260,2020-05
+Outras doenças bacterianas,148,148,130260,2020-05
+Leptospirose não especificada,1,1,130260,2020-05
+Restante de outras doenças bacterianas,147,147,130260,2020-05
+Sífilis congênita,21,21,130260,2020-05
+Sífilis precoce,1,1,130260,2020-05
+Outras infecções com transm predominant sexual,2,2,130260,2020-05
+Febres recorrentes,4,4,130260,2020-05
+Raiva,1,1,130260,2020-05
+Encefalite viral,1,1,130260,2020-05
+Outras febre p/arbovírus e febr hemorr p/vírus,17,17,130260,2020-05
+Dengue [dengue clásssico],12,12,130260,2020-05
+Febre hemorrágica devida ao vírus da dengue,3,3,130260,2020-05
+Restante outr febr arbovírus febr hemor vírus,2,2,130260,2020-05
+Varicela e herpes zoster,3,3,130260,2020-05
+Outras hepatites virais,11,11,130260,2020-05
+Doença pelo vírus da imunodefic humana [HIV],72,72,130260,2020-05
+Outras doenças virais,2229,2229,130260,2020-05
+Meningite viral,1,1,130260,2020-05
+Restante de outras doenças virais,2228,2228,130260,2020-05
+Micoses,2,2,130260,2020-05
+Malária,10,10,130260,2020-05
+Malária por Plasmodium falciparum,1,1,130260,2020-05
+Malária por Plasmodium vivax,7,7,130260,2020-05
+Malária não especificada,2,2,130260,2020-05
+Leishmaniose,3,3,130260,2020-05
+Leishmaniose cutânea,3,3,130260,2020-05
+Outras helmintíases,1,1,130260,2020-05
+Outras doenças infecciosas e parasitárias,1,1,130260,2020-05
+02 Neoplasias (tumores),363,363,130260,2020-05
+Neoplasia maligna do lábio cavid oral e faringe,8,8,130260,2020-05
+Neoplasia maligna do esôfago,8,8,130260,2020-05
+Neoplasia maligna do estômago,21,21,130260,2020-05
+Neoplasia maligna do cólon,5,5,130260,2020-05
+Neopl malig junção retoss reto ânus canal anal,14,14,130260,2020-05
+Neopl malig fígado e vias biliares intra-hepát,4,4,130260,2020-05
+Neoplasia maligna do pâncreas,6,6,130260,2020-05
+Outras neoplasias malignas de órgãos digestivos,4,4,130260,2020-05
+Neoplasias malignas de laringe,5,5,130260,2020-05
+Neoplasia maligna de traquéia brônquios e pulm,12,12,130260,2020-05
+Outras neopl malig órg respirat e intratorác,2,2,130260,2020-05
+Neoplasia maligna do osso e cartilagem articul,2,2,130260,2020-05
+Outras neoplasias malignas da pele,3,3,130260,2020-05
+Neopl malig do tecido mesotelial e tec moles,7,7,130260,2020-05
+Neoplasia maligna da mama,33,33,130260,2020-05
+Neoplasia maligna do colo do útero,39,39,130260,2020-05
+Neopl malig outr porções e porç não espec útero,5,5,130260,2020-05
+Outras neopl malignas órgãos genitais femininos,11,11,130260,2020-05
+Neoplasia maligna da próstata,12,12,130260,2020-05
+Outras neopl malignas órgãos genit masculinos,7,7,130260,2020-05
+Neoplasia maligna da bexiga,6,6,130260,2020-05
+Outras neoplasias malignas do trato urinário,3,3,130260,2020-05
+Neoplasia maligna dos olhos e anexos,1,1,130260,2020-05
+Neoplasia maligna do encéfalo,7,7,130260,2020-05
+Neopl malig outras partes sistema nerv central,1,1,130260,2020-05
+Neopl malig outr local mal def secun e não esp,21,21,130260,2020-05
+Doença de Hodgkin,3,3,130260,2020-05
+Linfoma não-Hodgkin,6,6,130260,2020-05
+Leucemia,58,58,130260,2020-05
+Carcinoma in situ de colo do útero,2,2,130260,2020-05
+Leiomioma do útero,11,11,130260,2020-05
+Neopl benig encéfalo e outr part sist nerv cent,16,16,130260,2020-05
+Outr neopl in situ benigs e comport incert desc,20,20,130260,2020-05
+03 Doenças sangue órgãos hemat e transt imunitár,63,63,130260,2020-05
+Anemia por deficiência de ferro,5,5,130260,2020-05
+Outras anemias,45,45,130260,2020-05
+Afecç hemorrág e outr doenç sang e órg hematop,12,12,130260,2020-05
+Alguns transtornos envolvendo mecanismo imunit,1,1,130260,2020-05
+04 Doenças endócrinas nutricionais e metabólicas,209,209,130260,2020-05
+Outros transtornos tireoidianos,1,1,130260,2020-05
+Diabetes mellitus,185,185,130260,2020-05
+Desnutrição,4,4,130260,2020-05
+Obesidade,1,1,130260,2020-05
+Depleção de volume,4,4,130260,2020-05
+Outros transt endócrinos nutricionais metabólic,14,14,130260,2020-05
+05 Transtornos mentais e comportamentais,5,5,130260,2020-05
+Transt ment comport dev uso outr subst psicoat,2,2,130260,2020-05
+Transtornos de humor [afetivos],1,1,130260,2020-05
+Outros transtornos mentais e comportamentais,2,2,130260,2020-05
+06 Doenças do sistema nervoso,170,170,130260,2020-05
+Doenças inflamatórias do sistema nervoso centr,4,4,130260,2020-05
+Meningite bacteriana não classif outra parte,2,2,130260,2020-05
+Restante doenças inflamat sist nervoso centr,2,2,130260,2020-05
+Epilepsia,28,28,130260,2020-05
+Enxaqueca e outras síndromes de algias cefálic,3,3,130260,2020-05
+Acid vascular cerebr isquêm transit e síndr cor,86,86,130260,2020-05
+Transtornos dos nervos raízes e plexos nervosos,3,3,130260,2020-05
+Outras doenças do sistema nervoso,46,46,130260,2020-05
+07 Doenças do olho e anexos,20,20,130260,2020-05
+Conjuntivite e outros transtornos da conjuntiva,15,15,130260,2020-05
+Descolamentos e defeitos da retina,3,3,130260,2020-05
+Estrabismo,1,1,130260,2020-05
+Outras doenças do olho e anexos,1,1,130260,2020-05
+08 Doenças do ouvido e da apófise mastóide,7,7,130260,2020-05
+Otite média e outr transt ouvid médio apóf mast,4,4,130260,2020-05
+Outras doenças do ouvido e da apófise mastóide,3,3,130260,2020-05
+09 Doenças do aparelho circulatório,663,663,130260,2020-05
+Doença reumática crônica do coração,1,1,130260,2020-05
+Hipertensão essencial (primária),45,45,130260,2020-05
+Outras doenças hipertensivas,10,10,130260,2020-05
+Infarto agudo do miocárdio,111,111,130260,2020-05
+Outras doenças isquêmicas do coração,69,69,130260,2020-05
+Transtornos de condução e arritmias cardíacas,10,10,130260,2020-05
+Insuficiência cardíaca,183,183,130260,2020-05
+Outras doenças do coração,28,28,130260,2020-05
+Hemorragia intracraniana,33,33,130260,2020-05
+Infarto cerebral,1,1,130260,2020-05
+Acid vascular cerebr não espec hemorrág ou isq,71,71,130260,2020-05
+Outras doenças cerebrovasculares,10,10,130260,2020-05
+Arteroesclerose,10,10,130260,2020-05
+Outras doenças vasculares periféricas,7,7,130260,2020-05
+Embolia e trombose arteriais,6,6,130260,2020-05
+Outras doenças das artérias arteríolas e capil,24,24,130260,2020-05
+Flebite tromboflebite embolia e trombose venosa,15,15,130260,2020-05
+Veias varicosas das extremidades inferiores,21,21,130260,2020-05
+Hemorróidas,5,5,130260,2020-05
+Outras doenças do aparelho circulatório,3,3,130260,2020-05
+10 Doenças do aparelho respiratório,889,889,130260,2020-05
+Faringite aguda e amigdalite aguda,3,3,130260,2020-05
+Laringite e traqueíte agudas,1,1,130260,2020-05
+Outras infecções agudas das vias aéreas super,4,4,130260,2020-05
+Influenza [gripe],41,41,130260,2020-05
+Pneumonia,513,513,130260,2020-05
+Bronquite aguda e bronquiolite aguda,26,26,130260,2020-05
+Outras doenças do nariz e dos seios paranasais,2,2,130260,2020-05
+Doenças crônicas das amígdalas e das adenóides,3,3,130260,2020-05
+Outras doenças do trato respiratório superior,2,2,130260,2020-05
+Bronquite enfisema e outr doenç pulm obstr crôn,17,17,130260,2020-05
+Asma,12,12,130260,2020-05
+Outras doenças do aparelho respiratório,265,265,130260,2020-05
+11 Doenças do aparelho digestivo,893,893,130260,2020-05
+Outros transtornos dentes e estruturas suporte,1,1,130260,2020-05
+Outr doenç cavidade oral glând saliv e maxilar,4,4,130260,2020-05
+Úlcera gástrica e duodenal,6,6,130260,2020-05
+Gastrite e duodenite,13,13,130260,2020-05
+Outras doenças do esôfago estômago e duodeno,27,27,130260,2020-05
+Doenças do apêndice,230,230,130260,2020-05
+Hérnia inguinal,46,46,130260,2020-05
+Outras hérnias,34,34,130260,2020-05
+Ileo paralítico e obstrução intestinal s/hérnia,31,31,130260,2020-05
+Doença diverticular do intestino,5,5,130260,2020-05
+Outras doenças dos intestinos e peritônio,45,45,130260,2020-05
+Doença alcoólica do fígado,8,8,130260,2020-05
+Outras doenças do fígado,41,41,130260,2020-05
+Colelitíase e colecistite,295,295,130260,2020-05
+Pancreatite aguda e outras doenças do pâncreas,28,28,130260,2020-05
+Outras doenças do aparelho digestivo,79,79,130260,2020-05
+12 Doenças da pele e do tecido subcutâneo,263,263,130260,2020-05
+Infecções da pele e do tecido subcutâneo,107,107,130260,2020-05
+Outras doenças da pele e do tecido subcutâneo,156,156,130260,2020-05
+13 Doenças sist osteomuscular e tec conjuntivo,54,54,130260,2020-05
+Artrite reumatóide e outr poliartropatias infl,6,6,130260,2020-05
+Artrose,5,5,130260,2020-05
+Deformidades adquiridas das articulações,3,3,130260,2020-05
+Outros transtronos articulares,11,11,130260,2020-05
+Doenças sistêmicas do tecido conjuntivo,5,5,130260,2020-05
+Transt discais cervic e outr transt disc interv,1,1,130260,2020-05
+Outras dorsopatias,1,1,130260,2020-05
+Transtornos do tecido mole,10,10,130260,2020-05
+Transtornos da densidade e da estrutura ósseas,6,6,130260,2020-05
+Osteomielite,3,3,130260,2020-05
+Outras doenças sist osteomuscular e tec conjunt,3,3,130260,2020-05
+14 Doenças do aparelho geniturinário,593,593,130260,2020-05
+Síndrome nefríticas aguda e rapidamente progres,18,18,130260,2020-05
+Outras doenças glomerulares,8,8,130260,2020-05
+Doenças renais túbulo-intersticiais,27,27,130260,2020-05
+Insuficiência renal,110,110,130260,2020-05
+Urolitíase,63,63,130260,2020-05
+Cistite,7,7,130260,2020-05
+Outras doenças do aparelho urinário,188,188,130260,2020-05
+Hiperplasia da próstata,8,8,130260,2020-05
+Hidrocele e espermatocele,1,1,130260,2020-05
+Preprúcio redundante fimose e parafimose,7,7,130260,2020-05
+Outras doenças dos órgãos genitais masculinos,16,16,130260,2020-05
+Transtornos da mama,11,11,130260,2020-05
+Salpingite e ooforite,14,14,130260,2020-05
+Outras doenças inflamat órgãos pélvicos femin,57,57,130260,2020-05
+Endometriose,4,4,130260,2020-05
+Prolapso genital feminino,9,9,130260,2020-05
+Transt não-inflam ovário tromp Falópio lig larg,10,10,130260,2020-05
+Transtornos da menstruação,2,2,130260,2020-05
+Outros transtornos do aparelho geniturinário,33,33,130260,2020-05
+15 Gravidez parto e puerpério,5717,5717,130260,2020-05
+Aborto espontâneo,192,192,130260,2020-05
+Aborto por razões médicas,3,3,130260,2020-05
+Outras gravidezes que terminam em aborto,236,236,130260,2020-05
+Edema protein transt hipertens grav parto puerp,110,110,130260,2020-05
+Placent prév descol premat plac hemorr antepart,9,9,130260,2020-05
+Outr mot ass mãe rel cav fet amn pos prob part,378,378,130260,2020-05
+Trabalho de parto obstruído,355,355,130260,2020-05
+Hemorragia pós-parto,5,5,130260,2020-05
+Outras complicações da gravidez e do parto,1106,1106,130260,2020-05
+Parto único espontâneo,3183,3183,130260,2020-05
+Compl pred rel puerpério e outr afecç obst NCOP,140,140,130260,2020-05
+16 Algumas afec originadas no período perinatal,551,551,130260,2020-05
+Feto e rec-nasc afet fat mat e compl grav parto,1,1,130260,2020-05
+Ret cres fet desn fet tran gest curt baix peso,111,111,130260,2020-05
+Hipóxia intrauterina e asfixia ao nascer,13,13,130260,2020-05
+Outros transt respiratórios orig per perinatal,99,99,130260,2020-05
+Doenças infecciosas e parasitárias congênitas,58,58,130260,2020-05
+Outras infecções específicas do período perinat,17,17,130260,2020-05
+Doença hemolítica do feto e do recém-nascido,4,4,130260,2020-05
+Outras afecções originadas no período perinatal,248,248,130260,2020-05
+17 Malf cong deformid e anomalias cromossômicas,55,55,130260,2020-05
+Outras malformações congênitas do sistema nerv,9,9,130260,2020-05
+Malformações congênitas do aparelho circulat,27,27,130260,2020-05
+Outras malformações congênitas aparelho digest,4,4,130260,2020-05
+Outras malformações do aparelho geniturinário,6,6,130260,2020-05
+Deformidades congênitas dos pés,3,3,130260,2020-05
+Outr malform e deform congên aparelho osteomusc,2,2,130260,2020-05
+Outras malformações congênitas,3,3,130260,2020-05
+Anomalias cromossômicas NCOP,1,1,130260,2020-05
+18 Sint sinais e achad anorm ex clín e laborat,96,96,130260,2020-05
+Dor abdominal e pélvica,52,52,130260,2020-05
+Febre de origem desconhecida,3,3,130260,2020-05
+Outr sist sinais achad anorm ex clín labor NCOP,41,41,130260,2020-05
+19 Lesões enven e alg out conseq causas externas,885,885,130260,2020-05
+Fratura do crânio e dos ossos da face,8,8,130260,2020-05
+Fratura do pescoço tórax ou pelve,7,7,130260,2020-05
+Fratura do fêmur,74,74,130260,2020-05
+Fratura de outros ossos dos membros,214,214,130260,2020-05
+Fraturas envolvendo múltiplas regiões do corpo,10,10,130260,2020-05
+Luxações entorse distensão reg esp e múlt corpo,25,25,130260,2020-05
+Traumatismo intracraniano,52,52,130260,2020-05
+Traumatismo de outros órgãos internos,63,63,130260,2020-05
+Lesões esmag amput traumát reg esp e múlt corpo,12,12,130260,2020-05
+Outr traum reg espec não espec e múltipl corpo,210,210,130260,2020-05
+Efeitos corpo estranho através de orifício nat,18,18,130260,2020-05
+Queimadura e corrosões,25,25,130260,2020-05
+Envenenamento por drogas e substâncias biológ,4,4,130260,2020-05
+Efeitos tóxicos subst origem princ não-medicin,103,103,130260,2020-05
+Outros efeitos e não espec de causas externas,3,3,130260,2020-05
+Cert compl prec traum compl cirúrg ass méd NCOP,54,54,130260,2020-05
+Seqüel traum enven e outr conseq causas extern,3,3,130260,2020-05
+21 Contatos com serviços de saúde,74,74,130260,2020-05
+Pessoas em contato com serv saúde exame invest,14,14,130260,2020-05
+Anticoncepção,30,30,130260,2020-05
+Pessoas contato serv saúde cuidados proc espec,28,28,130260,2020-05
+Pessoas contato serv saúde por outras razões,2,2,130260,2020-05

@@ -1,0 +1,282 @@
+lista morb  cid-10,2021,total,municipio_ibge,competencia
+01 Algumas doenças infecciosas e parasitárias,2250,2250,130260,2021-08
+Cólera,2,2,130260,2021-08
+Febres tifóide e paratifóide,1,1,130260,2021-08
+Shiguelose,1,1,130260,2021-08
+Amebíase,7,7,130260,2021-08
+Diarréia e gastroenterite origem infecc presum,453,453,130260,2021-08
+Outras doenças infecciosas intestinais,94,94,130260,2021-08
+Tuberculose respiratória,14,14,130260,2021-08
+Tuberculose pulmonar,7,7,130260,2021-08
+Outras tuberculoses respiratórias,7,7,130260,2021-08
+Outras tuberculoses,4,4,130260,2021-08
+Tuberculose óssea e das articulações,1,1,130260,2021-08
+Tuberculose miliar,2,2,130260,2021-08
+Restante de outras tuberculoses,1,1,130260,2021-08
+Hanseníase [lepra],2,2,130260,2021-08
+Outros tétanos,1,1,130260,2021-08
+Infecção meningocócica,2,2,130260,2021-08
+Septicemia,153,153,130260,2021-08
+Outras doenças bacterianas,258,258,130260,2021-08
+Leptospirose não especificada,5,5,130260,2021-08
+Restante de outras doenças bacterianas,253,253,130260,2021-08
+Sífilis congênita,45,45,130260,2021-08
+Outras infecções com transm predominant sexual,2,2,130260,2021-08
+Febres recorrentes,4,4,130260,2021-08
+Encefalite viral,3,3,130260,2021-08
+Outras febre p/arbovírus e febr hemorr p/vírus,65,65,130260,2021-08
+Dengue [dengue clásssico],60,60,130260,2021-08
+Febre hemorrágica devida ao vírus da dengue,3,3,130260,2021-08
+Restante outr febr arbovírus febr hemor vírus,2,2,130260,2021-08
+Infecções pelo vírus do herpes,2,2,130260,2021-08
+Varicela e herpes zoster,3,3,130260,2021-08
+Hepatite aguda B,1,1,130260,2021-08
+Outras hepatites virais,12,12,130260,2021-08
+Doença pelo vírus da imunodefic humana [HIV],151,151,130260,2021-08
+Caxumba [parotidite epidêmica],1,1,130260,2021-08
+Outras doenças virais,918,918,130260,2021-08
+Meningite viral,3,3,130260,2021-08
+Restante de outras doenças virais,915,915,130260,2021-08
+Micoses,4,4,130260,2021-08
+Malária,28,28,130260,2021-08
+Malária por Plasmodium falciparum,6,6,130260,2021-08
+Malária por Plasmodium vivax,15,15,130260,2021-08
+Outras formas malária conf exames parasitológ,2,2,130260,2021-08
+Malária não especificada,5,5,130260,2021-08
+Leishmaniose,2,2,130260,2021-08
+Leishmaniose não especificada,2,2,130260,2021-08
+Outras helmintíases,5,5,130260,2021-08
+Seqüelas de hanseníase [lepra],1,1,130260,2021-08
+Outras doenças infecciosas e parasitárias,11,11,130260,2021-08
+02 Neoplasias (tumores),537,537,130260,2021-08
+Neoplasia maligna do lábio cavid oral e faringe,3,3,130260,2021-08
+Neoplasia maligna do esôfago,5,5,130260,2021-08
+Neoplasia maligna do estômago,20,20,130260,2021-08
+Neoplasia maligna do cólon,6,6,130260,2021-08
+Neopl malig junção retoss reto ânus canal anal,11,11,130260,2021-08
+Neopl malig fígado e vias biliares intra-hepát,4,4,130260,2021-08
+Neoplasia maligna do pâncreas,1,1,130260,2021-08
+Outras neoplasias malignas de órgãos digestivos,2,2,130260,2021-08
+Neoplasia maligna de traquéia brônquios e pulm,11,11,130260,2021-08
+Outras neopl malig órg respirat e intratorác,5,5,130260,2021-08
+Neoplasia maligna do osso e cartilagem articul,4,4,130260,2021-08
+Outras neoplasias malignas da pele,7,7,130260,2021-08
+Neopl malig do tecido mesotelial e tec moles,5,5,130260,2021-08
+Neoplasia maligna da mama,43,43,130260,2021-08
+Neoplasia maligna do colo do útero,21,21,130260,2021-08
+Neopl malig outr porções e porç não espec útero,8,8,130260,2021-08
+Outras neopl malignas órgãos genitais femininos,15,15,130260,2021-08
+Neoplasia maligna da próstata,5,5,130260,2021-08
+Outras neopl malignas órgãos genit masculinos,2,2,130260,2021-08
+Neoplasia maligna da bexiga,4,4,130260,2021-08
+Outras neoplasias malignas do trato urinário,5,5,130260,2021-08
+Neoplasia maligna dos olhos e anexos,2,2,130260,2021-08
+Neoplasia maligna do encéfalo,6,6,130260,2021-08
+Neopl malig outras partes sistema nerv central,1,1,130260,2021-08
+Neopl malig outr local mal def secun e não esp,27,27,130260,2021-08
+Doença de Hodgkin,2,2,130260,2021-08
+Linfoma não-Hodgkin,12,12,130260,2021-08
+Leucemia,82,82,130260,2021-08
+Outras neopl malig tecidos linfóid hemat e rel,1,1,130260,2021-08
+Carcinoma in situ de colo do útero,10,10,130260,2021-08
+Neoplasia benigna da pele,3,3,130260,2021-08
+Neoplasia benigna da mama,2,2,130260,2021-08
+Leiomioma do útero,100,100,130260,2021-08
+Neoplasia benigna do ovário,1,1,130260,2021-08
+Neoplasia benigna dos órgãos urinários,2,2,130260,2021-08
+Neopl benig encéfalo e outr part sist nerv cent,9,9,130260,2021-08
+Outr neopl in situ benigs e comport incert desc,90,90,130260,2021-08
+03 Doenças sangue órgãos hemat e transt imunitár,120,120,130260,2021-08
+Anemia por deficiência de ferro,24,24,130260,2021-08
+Outras anemias,68,68,130260,2021-08
+Afecç hemorrág e outr doenç sang e órg hematop,28,28,130260,2021-08
+04 Doenças endócrinas nutricionais e metabólicas,338,338,130260,2021-08
+Outros transtornos tireoidianos,5,5,130260,2021-08
+Diabetes mellitus,282,282,130260,2021-08
+Desnutrição,23,23,130260,2021-08
+Obesidade,1,1,130260,2021-08
+Depleção de volume,3,3,130260,2021-08
+Outros transt endócrinos nutricionais metabólic,24,24,130260,2021-08
+05 Transtornos mentais e comportamentais,68,68,130260,2021-08
+Transt mentais e comportamentais dev uso álcool,8,8,130260,2021-08
+Transt ment comport dev uso outr subst psicoat,7,7,130260,2021-08
+Esquizofrenia transt esquizotípicos e delirant,30,30,130260,2021-08
+Transtornos de humor [afetivos],19,19,130260,2021-08
+Transt neurót e relacionados com stress somatof,2,2,130260,2021-08
+Outros transtornos mentais e comportamentais,2,2,130260,2021-08
+06 Doenças do sistema nervoso,229,229,130260,2021-08
+Doenças inflamatórias do sistema nervoso centr,7,7,130260,2021-08
+Meningite bacteriana não classif outra parte,5,5,130260,2021-08
+Restante doenças inflamat sist nervoso centr,2,2,130260,2021-08
+Doença de Parkinson,1,1,130260,2021-08
+Esclerose múltiplas,1,1,130260,2021-08
+Epilepsia,61,61,130260,2021-08
+Enxaqueca e outras síndromes de algias cefálic,3,3,130260,2021-08
+Acid vascular cerebr isquêm transit e síndr cor,89,89,130260,2021-08
+Transtornos dos nervos raízes e plexos nervosos,10,10,130260,2021-08
+Outras doenças do sistema nervoso,57,57,130260,2021-08
+07 Doenças do olho e anexos,102,102,130260,2021-08
+Inflamação da pálpebra,3,3,130260,2021-08
+Conjuntivite e outros transtornos da conjuntiva,54,54,130260,2021-08
+Catarata e outros transtornos do cristalino,18,18,130260,2021-08
+Descolamentos e defeitos da retina,24,24,130260,2021-08
+Outras doenças do olho e anexos,3,3,130260,2021-08
+08 Doenças do ouvido e da apófise mastóide,24,24,130260,2021-08
+Otite média e outr transt ouvid médio apóf mast,19,19,130260,2021-08
+Outras doenças do ouvido e da apófise mastóide,5,5,130260,2021-08
+09 Doenças do aparelho circulatório,961,961,130260,2021-08
+Febre reumática aguda,3,3,130260,2021-08
+Doença reumática crônica do coração,3,3,130260,2021-08
+Hipertensão essencial (primária),67,67,130260,2021-08
+Outras doenças hipertensivas,44,44,130260,2021-08
+Infarto agudo do miocárdio,153,153,130260,2021-08
+Outras doenças isquêmicas do coração,115,115,130260,2021-08
+Embolia pulmonar,3,3,130260,2021-08
+Transtornos de condução e arritmias cardíacas,24,24,130260,2021-08
+Insuficiência cardíaca,220,220,130260,2021-08
+Outras doenças do coração,24,24,130260,2021-08
+Hemorragia intracraniana,43,43,130260,2021-08
+Infarto cerebral,6,6,130260,2021-08
+Acid vascular cerebr não espec hemorrág ou isq,133,133,130260,2021-08
+Outras doenças cerebrovasculares,11,11,130260,2021-08
+Arteroesclerose,11,11,130260,2021-08
+Outras doenças vasculares periféricas,3,3,130260,2021-08
+Embolia e trombose arteriais,17,17,130260,2021-08
+Outras doenças das artérias arteríolas e capil,12,12,130260,2021-08
+Flebite tromboflebite embolia e trombose venosa,22,22,130260,2021-08
+Veias varicosas das extremidades inferiores,12,12,130260,2021-08
+Hemorróidas,14,14,130260,2021-08
+Outras doenças do aparelho circulatório,21,21,130260,2021-08
+10 Doenças do aparelho respiratório,1332,1332,130260,2021-08
+Faringite aguda e amigdalite aguda,10,10,130260,2021-08
+Laringite e traqueíte agudas,34,34,130260,2021-08
+Outras infecções agudas das vias aéreas super,19,19,130260,2021-08
+Influenza [gripe],15,15,130260,2021-08
+Pneumonia,801,801,130260,2021-08
+Bronquite aguda e bronquiolite aguda,143,143,130260,2021-08
+Outras doenças do nariz e dos seios paranasais,7,7,130260,2021-08
+Doenças crônicas das amígdalas e das adenóides,5,5,130260,2021-08
+Outras doenças do trato respiratório superior,8,8,130260,2021-08
+Bronquite enfisema e outr doenç pulm obstr crôn,36,36,130260,2021-08
+Asma,71,71,130260,2021-08
+Bronquiectasia,2,2,130260,2021-08
+Pneumoconiose,1,1,130260,2021-08
+Outras doenças do aparelho respiratório,180,180,130260,2021-08
+11 Doenças do aparelho digestivo,1793,1793,130260,2021-08
+Outros transtornos dentes e estruturas suporte,4,4,130260,2021-08
+Outr doenç cavidade oral glând saliv e maxilar,17,17,130260,2021-08
+Úlcera gástrica e duodenal,4,4,130260,2021-08
+Gastrite e duodenite,31,31,130260,2021-08
+Outras doenças do esôfago estômago e duodeno,22,22,130260,2021-08
+Doenças do apêndice,337,337,130260,2021-08
+Hérnia inguinal,183,183,130260,2021-08
+Outras hérnias,107,107,130260,2021-08
+Doença de Crohn e colite ulcerativa,5,5,130260,2021-08
+Ileo paralítico e obstrução intestinal s/hérnia,49,49,130260,2021-08
+Doença diverticular do intestino,7,7,130260,2021-08
+Outras doenças dos intestinos e peritônio,173,173,130260,2021-08
+Doença alcoólica do fígado,19,19,130260,2021-08
+Outras doenças do fígado,61,61,130260,2021-08
+Colelitíase e colecistite,554,554,130260,2021-08
+Pancreatite aguda e outras doenças do pâncreas,40,40,130260,2021-08
+Outras doenças do aparelho digestivo,180,180,130260,2021-08
+12 Doenças da pele e do tecido subcutâneo,597,597,130260,2021-08
+Infecções da pele e do tecido subcutâneo,329,329,130260,2021-08
+Outras doenças da pele e do tecido subcutâneo,268,268,130260,2021-08
+13 Doenças sist osteomuscular e tec conjuntivo,136,136,130260,2021-08
+Artrite reumatóide e outr poliartropatias infl,11,11,130260,2021-08
+Artrose,5,5,130260,2021-08
+Deformidades adquiridas das articulações,3,3,130260,2021-08
+Outros transtronos articulares,31,31,130260,2021-08
+Doenças sistêmicas do tecido conjuntivo,3,3,130260,2021-08
+Transt discais cervic e outr transt disc interv,2,2,130260,2021-08
+Outras dorsopatias,12,12,130260,2021-08
+Transtornos do tecido mole,36,36,130260,2021-08
+Transtornos da densidade e da estrutura ósseas,13,13,130260,2021-08
+Osteomielite,10,10,130260,2021-08
+Outras doenças sist osteomuscular e tec conjunt,10,10,130260,2021-08
+14 Doenças do aparelho geniturinário,1342,1342,130260,2021-08
+Síndrome nefríticas aguda e rapidamente progres,39,39,130260,2021-08
+Outras doenças glomerulares,33,33,130260,2021-08
+Doenças renais túbulo-intersticiais,57,57,130260,2021-08
+Insuficiência renal,165,165,130260,2021-08
+Urolitíase,125,125,130260,2021-08
+Cistite,15,15,130260,2021-08
+Outras doenças do aparelho urinário,433,433,130260,2021-08
+Hiperplasia da próstata,22,22,130260,2021-08
+Outros transtornos da próstata,5,5,130260,2021-08
+Hidrocele e espermatocele,15,15,130260,2021-08
+Preprúcio redundante fimose e parafimose,38,38,130260,2021-08
+Outras doenças dos órgãos genitais masculinos,33,33,130260,2021-08
+Transtornos da mama,33,33,130260,2021-08
+Salpingite e ooforite,23,23,130260,2021-08
+Outras doenças inflamat órgãos pélvicos femin,93,93,130260,2021-08
+Endometriose,16,16,130260,2021-08
+Prolapso genital feminino,24,24,130260,2021-08
+Transt não-inflam ovário tromp Falópio lig larg,61,61,130260,2021-08
+Transtornos da menstruação,5,5,130260,2021-08
+Infertilidade feminina,2,2,130260,2021-08
+Outros transtornos do aparelho geniturinário,105,105,130260,2021-08
+15 Gravidez parto e puerpério,6455,6455,130260,2021-08
+Aborto espontâneo,270,270,130260,2021-08
+Aborto por razões médicas,7,7,130260,2021-08
+Outras gravidezes que terminam em aborto,218,218,130260,2021-08
+Edema protein transt hipertens grav parto puerp,129,129,130260,2021-08
+Placent prév descol premat plac hemorr antepart,9,9,130260,2021-08
+Outr mot ass mãe rel cav fet amn pos prob part,602,602,130260,2021-08
+Trabalho de parto obstruído,454,454,130260,2021-08
+Hemorragia pós-parto,1,1,130260,2021-08
+Outras complicações da gravidez e do parto,1259,1259,130260,2021-08
+Parto único espontâneo,3327,3327,130260,2021-08
+Compl pred rel puerpério e outr afecç obst NCOP,179,179,130260,2021-08
+16 Algumas afec originadas no período perinatal,633,633,130260,2021-08
+Feto e rec-nasc afet fat mat e compl grav parto,7,7,130260,2021-08
+Ret cres fet desn fet tran gest curt baix peso,118,118,130260,2021-08
+Trauma durante o nascimento,1,1,130260,2021-08
+Hipóxia intrauterina e asfixia ao nascer,6,6,130260,2021-08
+Outros transt respiratórios orig per perinatal,99,99,130260,2021-08
+Doenças infecciosas e parasitárias congênitas,56,56,130260,2021-08
+Outras infecções específicas do período perinat,50,50,130260,2021-08
+Outras afecções originadas no período perinatal,296,296,130260,2021-08
+17 Malf cong deformid e anomalias cromossômicas,131,131,130260,2021-08
+Espinha bífida,3,3,130260,2021-08
+Outras malformações congênitas do sistema nerv,3,3,130260,2021-08
+Malformações congênitas do aparelho circulat,44,44,130260,2021-08
+Fenda labial e fenda palatina,27,27,130260,2021-08
+Ausência atresia e estenose do intestino delg,1,1,130260,2021-08
+Outras malformações congênitas aparelho digest,3,3,130260,2021-08
+Testiculo não-descido,7,7,130260,2021-08
+Outras malformações do aparelho geniturinário,4,4,130260,2021-08
+Deformidades congênitas do quadril,6,6,130260,2021-08
+Deformidades congênitas dos pés,6,6,130260,2021-08
+Outr malform e deform congên aparelho osteomusc,10,10,130260,2021-08
+Outras malformações congênitas,17,17,130260,2021-08
+18 Sint sinais e achad anorm ex clín e laborat,223,223,130260,2021-08
+Dor abdominal e pélvica,114,114,130260,2021-08
+Febre de origem desconhecida,9,9,130260,2021-08
+Outr sist sinais achad anorm ex clín labor NCOP,100,100,130260,2021-08
+19 Lesões enven e alg out conseq causas externas,1595,1595,130260,2021-08
+Fratura do crânio e dos ossos da face,17,17,130260,2021-08
+Fratura do pescoço tórax ou pelve,11,11,130260,2021-08
+Fratura do fêmur,96,96,130260,2021-08
+Fratura de outros ossos dos membros,491,491,130260,2021-08
+Fraturas envolvendo múltiplas regiões do corpo,77,77,130260,2021-08
+Luxações entorse distensão reg esp e múlt corpo,56,56,130260,2021-08
+Traumatismo do olho e da órbita ocular,2,2,130260,2021-08
+Traumatismo intracraniano,89,89,130260,2021-08
+Traumatismo de outros órgãos internos,48,48,130260,2021-08
+Lesões esmag amput traumát reg esp e múlt corpo,13,13,130260,2021-08
+Outr traum reg espec não espec e múltipl corpo,396,396,130260,2021-08
+Efeitos corpo estranho através de orifício nat,22,22,130260,2021-08
+Queimadura e corrosões,44,44,130260,2021-08
+Envenenamento por drogas e substâncias biológ,21,21,130260,2021-08
+Efeitos tóxicos subst origem princ não-medicin,121,121,130260,2021-08
+Outros efeitos e não espec de causas externas,11,11,130260,2021-08
+Cert compl prec traum compl cirúrg ass méd NCOP,62,62,130260,2021-08
+Seqüel traum enven e outr conseq causas extern,18,18,130260,2021-08
+21 Contatos com serviços de saúde,200,200,130260,2021-08
+Pessoas em contato com serv saúde exame invest,45,45,130260,2021-08
+Anticoncepção,97,97,130260,2021-08
+Rastreamento pré-natal e outr superv da gravid,2,2,130260,2021-08
+Pessoas contato serv saúde cuidados proc espec,53,53,130260,2021-08
+Pessoas contato serv saúde por outras razões,3,3,130260,2021-08
