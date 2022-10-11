@@ -18,12 +18,12 @@ def read_data_from_tabnet_page(filtro):
     municipio = filtro['municipio']
     ano_dois_digitos = filtro['ano'][-2:]
     mes_dois_digitos = filtro["mes"]
-    url = f"http://tabnet.datasus.gov.br/cgi/tabcgi.exe?sia/cnv/qb{config[municipio]['estado_sigla']}.def"
+    url = f"http://tabnet.datasus.gov.br/cgi/tabcgi.exe?sih/cnv/ni{config[municipio]['estado_sigla']}.def"
     data = {
-        "Linha": "Procedimento",
+        "Linha": "Lista_Morb__CID-10",
         "Coluna": "Ano_processamento",
-        "Incremento": "Qtd.aprovada",
-        "Arquivos": f'qb{config[municipio]["estado_sigla"]}{ano_dois_digitos}{mes_dois_digitos}.dbf',
+        "Incremento": "AIH_aprovadas",
+        "Arquivos": f'ni{config[municipio]["estado_sigla"]}{ano_dois_digitos}{mes_dois_digitos}.dbf',
         "pesqmes1": "",
         "SMunic%EDpio": config[municipio]["codigo_municipio_tabnet"],
         "SRegi%E3o_de_Sa%FAde_%28CIR%29": "TODAS_AS_CATEGORIAS__",
@@ -33,22 +33,21 @@ def read_data_from_tabnet_page(filtro):
         "SMicrorregi%E3o_IBGE": "TODAS_AS_CATEGORIAS__",
         "SRegi%E3o_Metropolitana_-_RIDE": "TODAS_AS_CATEGORIAS__",
         "pesqmes7": "Digite+o+texto+e+ache+f%E1cil",
-        "SProcedimento": "TODAS_AS_CATEGORIAS__",
-        "SGrupo_procedimento": "TODAS_AS_CATEGORIAS__",
-        "pesqmes9": "Digite+o+texto+e+ache+f%E1cil",
-        "SSubgrupo_proced.": "TODAS_AS_CATEGORIAS__",
+        "SEstabelecimento": "TODAS_AS_CATEGORIAS__",
+        "SCar%E1ter_atendimento": "TODAS_AS_CATEGORIAS__",
+        "SRegime": "TODAS_AS_CATEGORIAS__",
         "pesqmes10": "Digite+o+texto+e+ache+f%E1cil",
-        "SForma_organiza%E7%E3o": "TODAS_AS_CATEGORIAS__",
-        "SComplexidade": "TODAS_AS_CATEGORIAS__",
-        "SCar%E1ter_Atendiment": "TODAS_AS_CATEGORIAS__",
-        "SDocumento_registro": "TODAS_AS_CATEGORIAS__",
-        "pesqmes14": "Digite+o+texto+e+ache+f%E1cil",
-        "SFaixa_et%E1ria": "TODAS_AS_CATEGORIAS__",
+        "SCap%EDtulo_CID-10": "TODAS_AS_CATEGORIAS__",
+        "pesqmes11": "Digite+o+texto+e+ache+f%E1cil",
+        "SLista_Morb__CID-10": "TODAS_AS_CATEGORIAS__",
+        "pesqmes12": "Digite+o+texto+e+ache+f%E1cil",
+        "SFaixa_Et%E1ria_1": "TODAS_AS_CATEGORIAS__",
+        "pesqmes13":  "Digite+o+texto+e+ache+f%E1cil",
+        "SFaixa_Et%E1ria_2": "TODAS_AS_CATEGORIAS__",
         "SSexo": "TODAS_AS_CATEGORIAS__",
-        "pesqmes16": "Digite+o+texto+e+ache+f%E1cil",
-        "SProfissional_-_CBO": "TODAS_AS_CATEGORIAS__",
+        "SCor%2Fra%E7a": "TODAS_AS_CATEGORIAS__",
         "formato": "table",
-        "mostre": "Mostra"
+        "mostre":  "Mostra"
     }
 
     if "sexo" in filtro:
@@ -68,13 +67,7 @@ def read_data_from_tabnet_page(filtro):
     return res.text
 
 
-def read_data_from_file():
-    f = codecs.open("exemplo.html", 'r')
-    html_page = f.read()
-    return html_page
-
-
-def siasus_extrair_informacoes_dado_filtro(filtro):
+def sihsus_extrair_informacoes_dado_filtro(filtro):
     html_page = read_data_from_tabnet_page(filtro)
     municipio = filtro['municipio']
     mes_dois_digitos = filtro["mes"]
@@ -82,7 +75,7 @@ def siasus_extrair_informacoes_dado_filtro(filtro):
     soup = BeautifulSoup(html_page, 'html5lib')
     table = soup.find('table', {"class": "tabdados"})
     if not table:
-        print("não foi encontrada tabela no retorno para o filtro: " + str(filtro))
+        print("não foi encontrada tabela no retorno para o filtro: " + str(html_page))
         return
     table_rows = table.find_all('tr')
     if not table_rows:
